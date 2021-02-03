@@ -5,7 +5,7 @@ function Mainfunction(){
 
 <div className="App">
 
-<p>Welcome to React world</p>
+<p>Welcome to SheThink world</p>
 </div>
 	)
 
