@@ -29,8 +29,9 @@ class FetchFunction extends Component {
 
         return (
             <div>
-                <p>{text2}</p>
-                <p>{text}</p>
+                <p>this is a fetch demo </p>
+                <p>id: {text2} </p> 
+                <p>text: {text}</p>
 
 
             </div>
