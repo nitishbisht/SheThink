@@ -16,7 +16,10 @@ function Mainfunction(){
 		 console.log(hello);// "o/p=say Hello instead"
 	 }
 	<p>{hello}</p> // o/p= hi **instances are treated as different variables since they have different scopes**
-//var	
+
+
+
+	//var	
 	function newFunction() {
 		var hello = "hello world";
 		//var hello="hey man whats up" // we can't redeclare var variable
@@ -26,9 +29,9 @@ function Mainfunction(){
     //console.log(hello); we cant't use hello varible outside the scope of function
 	return(
 
-<div className="App">
+<div className="mainfunction">
 
-<p>Welcome to SheThink world {hello} </p>
+<p>Welcome to Nitish world {hello} </p>
 {newFunction}
 </div>
 	)

@@ -3,7 +3,7 @@ import React from "react"
 function FunctionTwo()
 {
 
-    let grade="A";
+    let grade="B";
     let value;
 
 switch(grade) {
